@@ -1,6 +1,6 @@
 # learningclj
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to learn clojure from a beginners point of view.
 
 ## Usage
 
